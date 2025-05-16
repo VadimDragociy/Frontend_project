@@ -51,7 +51,7 @@ yarn build
 ```
 
 Предварительно надо вставить макет в postman
-гайд по настройке проекта:
+- гайд по настройке проекта:
 [Практикум](https://practicum.yandex.ru/learn/associated-programs-frontend-st/courses/6602b296-01df-414c-8aa1-fcac9aae9781/sprints/401101/topics/334b7c9e-2242-4642-a876-bf6531efbe89/lessons/598e9e21-a3a3-4a37-a81e-ede38cdc45cd/)
 ---
 
